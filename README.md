@@ -4,40 +4,13 @@
 
 본 수업의 커리큘럼은 다음과 같습니다.
 
-<ol>사전 준비
-<li>개발 환경 설치</li>
-<li>MEAN 스택 개요</li>
-<li>JSON 개요</li>
-</ol>
-
-<ol>Mongo DB
-<li>빅데이터 개요</li>
-<li>NoSQL 개요</li>
-<li>MongoDB 개요</li>
-<li>MongoDB 실행</li>
-<li>...</li>
-</ol>
-
-<ol>NodeJS
-<li>NodeJS 개요</li>
-<li>NodeJS 기본 모듈</li>
-<li>NodeJS 모듈 관리</li>
-<li>NodeJS 콜백 관리</li>
-<li>...</li>
-</ol>
-
-<ol>Express
-<li>Express 개요</li>
-<li>Express 라우팅</li>
-<li>Express 템플릿 엔진</li>
-<li>...</li>
-</ol>
-
-<ol>그 외
-<li>NodeJS와 MongoDB 연동</li>
-<li>AngularJS 개요</li>
-<li>MEAN스택 웹개발<li>
-</ol>
+1. 사전 준비 : 개발 환경 설치, MEAN 스택 및 JSON 개요
+2. Mongo DB : NoSQL 및 MongoDB 개요, MongoDB 실행
+3. NodeJS : NodeJS 개요, 기본 모듈, 모듈 관리 등
+4. Express : Express 개요, 라우팅, 템플릿 엔진 등
+5. 중간 Integration : NodeJS와 MongoDB 연동
+6. AngularJS : AngularJS 개요
+7. 최종 Integration : AngularJS, Express, NodeJS, MongoDB 연동
 
 모든 프로그래밍 수업이 마찬가지지만, 이 수업은 모든 것을 마스터하기에는 시간이 부족하기 때문에
 
